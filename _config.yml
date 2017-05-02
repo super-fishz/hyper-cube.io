@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Hyper-cube
 tagline:          'A Jekyll theme'
 description:      'desc'
-url:              http://hyde.getpoole.com
+url:              http://hyper-cube.io
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/hyper-cube-io/hyper-cube-io
