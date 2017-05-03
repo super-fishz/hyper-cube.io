@@ -18,3 +18,13 @@ html {
 .sidebar .sidebar-about h1 {
     font-size: 2.25rem;
 }
+
+.post-date .author {
+    color: #303030;
+    float: right;
+}
+.post-date .author img{
+    vertical-align: middle;
+    margin: 0;
+    display: inline;
+}
