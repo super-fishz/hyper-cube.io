@@ -21,6 +21,10 @@ authors:
     web: http://ium.me
     twitter: _super_fishz
     github: super-fishz
+  sh:
+    name: Seungsoo Han
+    display_name: Seungsoo
+    github: hanseungsoo
 
 paginate:         5
 
