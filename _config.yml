@@ -21,7 +21,13 @@ authors:
     web: http://ium.me
     twitter: _super_fishz
     github: super-fishz
-
+  kwSeo:
+    name: Kyeongwon Seo
+    display_name: kwSeo
+    email: tkruddnjs1@naver.com
+    web: http://kwSeo.github.io
+    github: kwSeo
+    
 paginate:         5
 
 # Custom vars
