@@ -21,13 +21,18 @@ authors:
     web: http://ium.me
     twitter: _super_fishz
     github: super-fishz
+  sh:
+    name: Seungsoo Han
+    display_name: Seungsoo
+    github: hanseungsoo
+    email: hss0417@gmail.com
   kwSeo:
     name: Kyeongwon Seo
     display_name: kwSeo
     email: tkruddnjs1@naver.com
     web: http://kwSeo.github.io
     github: kwSeo
-    
+
 paginate:         5
 
 # Custom vars
