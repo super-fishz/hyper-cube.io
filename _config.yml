@@ -7,15 +7,21 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyper-cube
+title:            hyper-cube.io
 tagline:          'A Jekyll theme'
 description:      'desc'
 url:              http://hyper-cube.io
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+authors:
+  jh:
+    name: Jihoon Kim
+    display_name: Jihoon
+    gravatar: 08c3aa66b58fccc84f072d8e9848e69b
+    email: jh.kim@hyper-cube.io
+    web: http://ium.me
+    twitter: _super_fishz
+    github: super-fishz
 
 paginate:         5
 
